@@ -3,7 +3,7 @@
   "description": "Constants library take off for the framework Launchpad",
   "extra": {
     "launchpad": {
-      "provider" : "LaunchpadFrameworkConstants\\ServiceProvider",
+      "library_provider" : "LaunchpadFrameworkConstants\\ServiceProvider",
       "clean": true,
       "install": true,
       "libraries" : {
